@@ -1,0 +1,1 @@
+gcc ./src/ml.c -o ML
