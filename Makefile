@@ -1,1 +1,1 @@
-gcc ./src/ml.c -o ML
+gcc -O2 -Wall -Wextra ./src/ml.c -o ML
